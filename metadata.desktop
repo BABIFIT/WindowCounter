@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Window Count Badge
+Comment=Shows a badge with the count of open windows per application group
+Icon=window-duplicate
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-PluginInfo-Name=org.kde.plasma.windowcountbadge
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Category=Windows and Tasks
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml

@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Id": "org.kde.plasma.windowcountbadge",
+        "Name": "Window Count Badge",
+        "Description": "Shows compact window counts for grouped apps",
+        "Category": "Windows and Tasks",
+        "Icon": "window-duplicate",
+        "License": "GPL-2.0+",
+        "Version": "2.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
